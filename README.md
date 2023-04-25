@@ -94,8 +94,6 @@ This project has not been deployed
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
 - GitHub: [@aamir-asaram](https://github.com/aamir-asaram)
